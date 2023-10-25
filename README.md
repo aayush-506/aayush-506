@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend Web Development<br>🤝 I’m looking for help with Web3 Technology<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about C | Java | Python <br>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+(https://holopin.me/aayush506)](https://holopin.io/@aayush506)
 
 
 ## 🌐 Socials:

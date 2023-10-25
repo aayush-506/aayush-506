@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend Web Development<br>🤝 I’m looking for help with Web3 Technology<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about C | Java | Python <br>
 
-(https://holopin.me/aayush506)](https://holopin.io/@aayush506)
+[![An image of @aayush506's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayush506)](https://holopin.io/@aayush506)
 
 
 ## 🌐 Socials:

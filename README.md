@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FullStack Web Development<br>🤝 I’m looking for help with Web3 Technology<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about C | Java | Python | C++<br>
+🔭 I’m currently working on FullStack Web Development<br>🤝 I’m looking for help with Web3 Technology<br>>💬 Ask me about C | Java | Python | C++<br>
 
 [![An image of @aayush506's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayush506)](https://holopin.io/@aayush506)
 

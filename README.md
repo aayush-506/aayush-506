@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on FullStack Web Development<br>🤝 I’m looking for help with Web3 Technology<br>>💬 Ask me about C | Java | Python | C++<br>
+## 💫 About Me
+
+👋 Hi! I'm Aayush — a passionate **Full Stack Web Developer** focused on building clean, responsive, and interactive web applications.
+
+🔭 Currently working on:  
+- Full Stack Web Development using the MERN stack  
+- Creating dynamic UIs and integrating real-time features
+
+🌱 Exploring:  
+- Advanced backend concepts, authentication & authorization  
+- Payment gateway integration (e.g., Razorpay, Stripe)  
+- Basics of Web3 and blockchain technologies
+
+💬 Ask me about:  
+`React`, `Node.js`, `Express`, `MongoDB`, `JavaScript`, `Python`, `C`, `C++`, `Tailwind CSS`, `REST APIs`
+
+🤝 Open to collaboration on impactful web or open-source projects
+
+📫 How to reach me:  
+📧 Email: [at290608@gmail.com](mailto:at290608@gmail.com)  
 
 [![An image of @aayush506's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayush506)](https://holopin.io/@aayush506)
 
